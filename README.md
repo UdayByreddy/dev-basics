@@ -90,3 +90,36 @@ git is an ***version control*** helps to manage changes files and allowing mutip
 
 ___
 
+## markdown
+ 
+ markdown is an set of syntax.Using while wrting '.md' files in git
+
+ some basic commands
+
+ * '#' headings
+ * '##' sub headings
+ * '###' h3 tag in html
+ * '** **' is used to bold letter
+ * '*** ***' is used to bold and itly
+ *  '[dep](url)' link the dep word
+ * '__' for make line
+
+  Go for [documention]("https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax") in git u explore more commands 
+
+___
+
+## Computer Networks
+Computer networks are system of interconnected computer and other devices that can commuicate and share resource with each other
+
+Types of Computer Network
+
+* ***LAN*** (local area network) : This network only used for house and building
+
+* ***PAN*** (personal area network) :This is used personal devices like bluetooth etc
+
+* ***WAN*** (wide area network): This is used wide range networks like small city
+
+* ***MAN*** (metropoltian area network): This networkm used in large city
+
+____
+
