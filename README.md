@@ -6,4 +6,4 @@ CLI means  ***Command Line Interface*** used to interact with system with out GU
 
 some basic commands on CLI
 
-1 mkdir
+*mkdir is used to create the folder
