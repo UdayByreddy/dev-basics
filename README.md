@@ -92,11 +92,11 @@ ___
 
 ## markdown
  
- markdown is an set of syntax.Using while wrting '.md' files in git
+ markdown is an set of syntax.Using while wrting ' .md ' files in git
 
  some basic commands
 
- * '#' headings
+ * ' # ' headings
  * '##' sub headings
  * '###' h3 tag in html
  * '** **' is used to bold letter
