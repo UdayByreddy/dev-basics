@@ -90,21 +90,22 @@ git is an ***version control*** helps to manage changes files and allowing mutip
 
 ___
 
-## markdown
- 
- markdown is an set of syntax.Using while wrting ' .md ' files in git
+  ## Markdown
 
- some basic commands
+Markdown is a set of syntax rules used while writing `.md` files in Git. 
 
- * ' # ' headings
- * '##' sub headings
- * '###' h3 tag in html
- * '** **' is used to bold letter
- * '*** ***' is used to bold and itly
- *  '[dep](url)' link the dep word
- * '__' for make line
+Some basic commands:
 
-  Go for [documention]("https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax") in git u explore more commands 
+* `#` for headings
+* `##` for sub-headings
+* `###` for h3 tags in HTML
+* `** **` is used to make text **bold**
+* `*** ***` is used to make text ***bold and italic***
+* `[dep](url)` links the word "dep" to a URL
+* `---` is used to create a horizontal line
+
+Go to the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on GitHub to explore more commands.
+
 
 ___
 
